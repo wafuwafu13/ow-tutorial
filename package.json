@@ -1,0 +1,24 @@
+{
+  "name": "ow-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ow": "^0.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wafuwafu13/ow-tutorial.git"
+  },
+  "keywords": [],
+  "author": "Tagawa Hirotaka <wafuwafumariobaske@gmail.com> (https://tagawa.netlify.app/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wafuwafu13/ow-tutorial/issues"
+  },
+  "homepage": "https://github.com/wafuwafu13/ow-tutorial#readme"
+}
